@@ -1,9 +1,6 @@
 # simple-multithreaded-httpserver
 
-This is a simple multithreaded http server that properly shuts down after
-2 requests just for the purpose of learning multithreading in rust.
-
-
+This is a simple multithreaded http server written in rust.
 ## Usage
 
 ```bash
